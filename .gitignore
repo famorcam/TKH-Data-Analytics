@@ -3,11 +3,6 @@ CLAUDE.md
 _drafts/
 labs/_answer_keys/
 
-# Large data files
-data/nyc_airbnb.csv
-data/mall_customers.csv
-data/world_happiness.csv
-
 # Python
 __pycache__/
 *.pyc
